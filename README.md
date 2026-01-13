@@ -5,11 +5,6 @@ It helps you log income & expenses, visualize financial trends, and receive **AI
 
 ---
 
-## 🎥 Demo Video
-▶️ Watch full walkthrough here: [YouTube Demo](https://youtu.be/1N9xm3wrHAY)  
-
----
-
 ## ✨ Features
 - 🔐 **Password-protected login** (bcrypt hashed)  
 - ☁️ **Google Sheets as backend** (yearly tabs like `test-2024`, `test-2025`)  
