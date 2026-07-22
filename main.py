@@ -5,6 +5,8 @@ import bcrypt
 import utils.app as app
 
 
+
+
 # Load hashed password
 with open("config/auth.json", "r") as f:
     auth_data = json.load(f)
